@@ -4,20 +4,10 @@
 
 дөрвөн үе шат болгон хувааж үздэг:
 
-* Processing the data
+* [Processing the data](https://github.com/jakIT-ops/data_visualization/blob/master/02ReadingData.ipynb)
 
-* Describing the data
+* [Describing the data](https://github.com/jakIT-ops/data_visualization/blob/master/03DescribingData.ipynb)
 
-* Cleaning the data
+* [Cleaning the data](https://github.com/jakIT-ops/data_visualization/blob/master/04CleaningData.ipynb)
 
-* Visualizing the data
-
-# 2. Python Basics for Analytics
-
-# 3. Reading data
-
-# 4. Describing Data
-
-# 5. Cleaning Data
-
-# 6. Visualizing Data
+* [Visualizing the data](https://github.com/jakIT-ops/data_visualization/blob/master/05VisualizingData.ipynb)
